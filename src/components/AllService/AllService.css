@@ -1,0 +1,17 @@
+.card{
+    border: 1px solid rgba(211, 211, 211, 0.233);
+}
+.card-img{
+    width: 355px;
+    height: 300px;
+}
+.card-container{
+    text-align: center;
+}
+.card-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.card-text{
+    font-size: 20px;
+}

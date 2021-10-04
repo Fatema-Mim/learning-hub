@@ -1,0 +1,80 @@
+const data = [
+    {
+        id: 1,
+        title: 'English Speaking Course',
+        price: 6000,
+        img:'https://i.pinimg.com/280x280_RS/de/a6/79/dea679b391594525f59ab85b25f98a16.jpg',
+    },
+    {
+        id: 2,
+        title: 'Full English Course',
+        price: 12000,
+        img:'https://image.shutterstock.com/image-photo/lets-learn-english-text-on-260nw-709455151.jpg',
+    },
+    {
+        id: 3,
+        title: 'Learn Korean Language ',
+        price: 10000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPbG0gHqJam9Mpp2gsuw1PPPvOjbwVvINTXA&usqp=CAU',
+    },
+    {
+        id: 4,
+        title: 'Learn Spanish Language ',
+        price: 10000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjVc3wUIqG2D0OKzS00pBcsPtKKS6CUaJRg&usqp=CAU',
+    },
+    {
+        id: 5,
+        title: 'Improve Your Handwriting ',
+        price: 3000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJHL8xAVBEnIZlWna8sRFviIUlWhUp4J7XEg&usqp=CAU',
+    },
+    {
+        id: 6,
+        title: 'Junior Math Class',
+        price: 6000,
+        img:'https://5.imimg.com/data5/HF/DC/GLADMIN-37672513/mental-maths-course-500x500.png',
+    },
+    {
+        id: 7,
+        title: 'Bangla Recitation clab',
+        price: 5000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaZ0Pu-ymhuU4tGdxvAGARdGMPUKElScMiNw&usqp=CAU',
+    },
+    {
+        id: 8,
+        title: 'Quran Recitation clab',
+        price: 5000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzaLlZCMxHcqDFoyvkwzhbRqNGAHtH4DcGiA&usqp=CAU',
+    },
+    {
+        id: 9,
+        title: 'The Music School',
+        price: 7000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGBhxUt7Bu6j0pQtS-ARh6BPB6WhER2qRpAA&usqp=CAU',
+    },
+    {
+        id: 10,
+        title: 'The Art School',
+        price: 7000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXQ4IaMJZooOLjn8srZ2YCl5WfAE1ERJ4-w&usqp=CAU',
+    },
+    {
+        id: 11,
+        title: 'Oil Painting Clab',
+        price: 12000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXUPgJ2i4hFTjgAp5vzot2h2ewKIyz6O1Kw&usqp=CAU',
+    },
+    {
+        id: 12,
+        title: 'The Dance School',
+        price: 7000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-JkMLIOJZXWXgM9s0dMLM-vUE55mtlBeLAQ&usqp=CAU',
+    },
+    {
+        id: 13,
+        title: 'The Acting School',
+        price: 8000,
+        img:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCBHQW6fLFDi8qQyGVylAYFCQF5HIFpbLQQ&usqp=CAU',
+    },
+]
