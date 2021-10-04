@@ -8,7 +8,7 @@ const AllService = (props) => {
         <Col>
             <Card className="card">
                 <Card.Img className="card-img" variant="top" src={img} />
-                <Card.Body className="card-container">
+                <Card.Body className="text-center">
                     <Card.Title className="card-title">{title} </Card.Title>
                     <Card.Text>
                         <p className="card-text">Price: $ {price}</p>
